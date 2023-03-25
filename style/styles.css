@@ -179,3 +179,116 @@
     color: #737272;
 
 }
+
+/* Contact Banner Styles */
+
+
+
+/* footer banner styles */
+footer {
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+    background: #151414;
+    display: flex;
+}
+
+footer a {
+    text-decoration: none;
+    width: 1600px;
+    height: 577px;
+}
+
+.footer-text {
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 2781.96px;
+    padding: 130px 230px 130px 230px;
+}
+
+.footer-text-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.footer-text-description,
+.footer-text-email,
+.footer-text-contact {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.footer-text-description {
+    margin-bottom: 24px;
+}
+
+.footer-text-email {
+    margin-bottom: 16px;
+}
+
+.footer-text-contact {
+    margin-bottom: 32px;
+}
+
+.footer-subscribe {
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 2781.96px;
+    padding: 130px 229px 243px;
+}
+
+.footer-subtitle {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-bottom: 31px;
+}
+
+.footer-subscribe input {
+    background-color: #151414;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #F3F3F3;
+    border: 1px solid white;
+    border-radius: 8px;
+    width: 325px;
+    height: 64px;
+    left: 1046px;
+    top: 2841.96px;
+    margin-bottom: 16px;
+}
+
+.btn-subscribe {
+    width: 170.11px;
+    height: 64px;
+    left: 1046px;
+    top: 2921.96px;
+    border-radius: 8px;
+    background: #005FAC;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
