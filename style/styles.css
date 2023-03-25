@@ -64,6 +64,7 @@
 }
 
 /* Failure Section Styles */
+
 .failure {
     display: flex;
     gap: 87px;
@@ -117,4 +118,64 @@
 
 .fa-check {
     color: #16D887;
+}
+
+/* Plan Section Styles */
+
+.plan-title {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+    padding-bottom: 50px;
+
+}
+
+.plan-cards {
+    position: absolute;
+    width: 1141px;
+    height: 202.96px;
+    left: 230px;
+    top: 1889px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 130px;
+}
+
+.card-logo {
+    width: 92.96px;
+    height: 92.96px;
+    padding-left: 34px;
+    padding-bottom: 24px;
+}
+
+.card-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+
+
+}
+
+.card-description {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+
 }
