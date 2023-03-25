@@ -8,6 +8,7 @@
     background-image: url(../images/banner/banner3.png);
     width: 100%;
     height: 808px;
+    margin-bottom: 131px;
 }
 
 .banner-title {
@@ -60,4 +61,60 @@
     text-align: right;
     color: #005FAC;
 
+}
+
+/* Failure Section Styles */
+.failure {
+    display: flex;
+    gap: 87px;
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    margin-bottom: 130px;
+}
+
+.failure-text-heading {
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    padding-top: 239px;
+    padding-bottom: 24px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.failure-text-description {
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+
+}
+
+.failure-checklist-text {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 8px;
+}
+
+.fa-check {
+    color: #16D887;
 }
