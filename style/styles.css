@@ -182,7 +182,50 @@
 
 /* Contact Banner Styles */
 
+.contact-banner {
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    background-image: url(../images/watch.png);
+}
 
+.contact-text-heading {
+
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 64px;
+    top: 59px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+
+
+}
+
+.contact-text-btn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 64px;
+    top: 177px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #005FAC;
+}
 
 /* footer banner styles */
 footer {
